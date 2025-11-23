@@ -1,63 +1,52 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff8bd1;">Jessica Chris</span></h1>
-<h3 align="center">Web Developer & Future AI Innovator ✨</h3>
+<h1 align="center">Hi 👋, I'm Jessica Chris</h1>
+<h3 align="center">Web Developer | Future AI Innovator</h3>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/zf1V3Gx.gif" width="400px" alt="neon girl coding"/>
-</p>
+### 👩‍💻 About Me
+I'm a passionate **Web Developer** exploring modern frontend technologies and the world of **Artificial Intelligence**.  
+I enjoy building clean, responsive, and user-friendly web experiences with a focus on simplicity and future-ready design.
+
+I'm constantly learning, improving, and working on projects that help me grow in the tech space.
 
 ---
 
-### 🌸 About Me  
-Hey! I'm **Jessica**, a web developer exploring the soft-neon future of the internet.  
-I love building digital experiences that are cute, clean, and a little bit magical ✨  
-Currently diving deep into **AI**, **frontend development**, and **creative coding**.
+### 🌱 Currently Learning
+- JavaScript & Modern Frontend Development  
+- Tailwind CSS  
+- AI Fundamentals & Machine Learning Basics  
 
 ---
 
-### 💡 What I'm Up To  
-- 🔭 Currently building: **my futuristic portfolio website**  
-- 🌱 Learning: **JavaScript, Tailwind CSS, AI concepts**  
-- 🤝 Looking to collaborate on: **fun, aesthetic, AI-powered projects**  
-- 💬 Ask me about: **web dev, UI vibes, soft neon designs**  
-- 📫 Reach me at: **jessica3chris@gmail.com**  
-- ✨ Fun fact: I code better with neon lights and iced coffee  
-
----
-
-### 🛠️ Tech & Tools I Use  
+### 🔧 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,github,git,vscode,tailwind" />
 </p>
 
 ---
 
-### 🌈 Soft Neon Vibe Zone  
+### 📫 Reach Me At  
+- **Email:** jessica3chris@gmail.com  
+- **GitHub:** github.com/JessicaChris  
+
+---
+
+### 📌 Current Focus
+- Building a clean, modern personal portfolio website  
+- Strengthening frontend development skills  
+- Exploring AI concepts & tools  
+
+---
+
+### ✨ Professional Interests  
+- Web Development  
+- UI/UX  
+- AI + Automation  
+- Creative Tech  
+- Modern Web Architecture  
+
+---
+
 <p align="center">
-  <img src="https://i.imgur.com/EdxQK8E.gif" width="350px" />
+  <sub>Thank you for visiting my profile!</sub>  
 </p>
-
----
-
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://github.com/JessicaChris" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jessica3chris@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/1Zc5gBX.gif" width="250px" alt="neon line"/>
-</p>
-
-<p align="center">✨ Crafted with soft-neon love by <strong>Jessica Chris</strong> ✨</p>
-
