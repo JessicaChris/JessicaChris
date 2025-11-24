@@ -1,52 +1,46 @@
-<h1 align="center">Hi 👋, I'm Jessica Chris</h1>
-<h3 align="center">Web Developer | Future AI Innovator</h3>
+<h1 align="center">Hi, I'm Jessica Chris</h1>
+<h3 align="center">Web Developer | Learning AI | Building Step by Step</h3>
 
 ---
 
-### 👩‍💻 About Me
-I'm a passionate **Web Developer** exploring modern frontend technologies and the world of **Artificial Intelligence**.  
-I enjoy building clean, responsive, and user-friendly web experiences with a focus on simplicity and future-ready design.
-
-I'm constantly learning, improving, and working on projects that help me grow in the tech space.
+### 🌱 About Me  
+- I enjoy building small web projects and improving my frontend skills.  
+- Currently exploring AI concepts and how they connect with web development.  
+- I like keeping my code simple, clean, and beginner-friendly.
 
 ---
 
-### 🌱 Currently Learning
-- JavaScript & Modern Frontend Development  
+### 💻 What I’m Learning  
+- ReactJS & TypeScript  
+- JavaScript basics  
+- Python for small tools  
 - Tailwind CSS  
-- AI Fundamentals & Machine Learning Basics  
+- Introductory AI fundamentals  
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Tech & Tools I Use  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,github,git,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,git,github,react,vscode,tailwind" />
 </p>
 
 ---
 
-### 📫 Reach Me At  
+### 📌 Some Things I Work On  
+- Small UI practice projects  
+- Simple dashboards and utilities  
+- Basic e-commerce layout experiments  
+- Improving my project structure & code organization  
+- Experimenting with AI-based features
+
+---
+
+### 📫 Reach Me  
 - **Email:** jessica3chris@gmail.com  
 - **GitHub:** github.com/JessicaChris  
 
 ---
 
-### 📌 Current Focus
-- Building a clean, modern personal portfolio website  
-- Strengthening frontend development skills  
-- Exploring AI concepts & tools  
-
----
-
-### ✨ Professional Interests  
-- Web Development  
-- UI/UX  
-- AI + Automation  
-- Creative Tech  
-- Modern Web Architecture  
-
----
-
 <p align="center">
-  <sub>Thank you for visiting my profile!</sub>  
+  <sub>Just building, learning, and growing one repo at a time 👩‍💻💫</sub>
 </p>
