@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Jessica Chris</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="250" />
+</p>
+
 <h3 align="center">Web Developer | Learning AI | Building Step by Step</h3>
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" />
