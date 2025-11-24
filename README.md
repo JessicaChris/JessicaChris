@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jessica Chris</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLiq8lF1IY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
 </p>
 <h3 align="center">Web Developer | Learning AI | Building Step by Step</h3>
 
